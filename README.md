@@ -1,4 +1,6 @@
-# Hello in Other Languages
+# Hello & Goodbye in Hello Other Languages
+
+## Hello in Other Languages
 
 ## Spanish
 ```
